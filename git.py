@@ -1,3 +1,3 @@
-print("EU ODEIO python.a")
-print("Tobias ;")
+print("EU ODEIO...")
+print("Tobias...")
 print("8====D")
